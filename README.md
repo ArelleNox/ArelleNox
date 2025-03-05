@@ -1,2 +1,1 @@
-![Banner Alt Text](file:///C:/Users/JJ/github_profile/Purple%20Blue%20Neon%20Gradient%20Gaming%20Tech%20Channel%20Youtube%20Banner.png)
-
+![My Banner](https://github.com/ArelleNox/ArelleNox/issues/1#issue-2898457475)
