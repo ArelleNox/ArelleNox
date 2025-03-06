@@ -19,7 +19,7 @@ I’m always up for chatting about **game dev**, **C++**, and **tech**. Let's co
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArelleNox&layout=compact&theme=tokyonight)  
 
 ## 🔥 Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ArelleNox&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ArelleNox&theme=github-green-purple)  
 
 ## 📫 Connect With Me  
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](your-discord-link)  
