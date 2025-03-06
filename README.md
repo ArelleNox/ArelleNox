@@ -18,10 +18,6 @@ I’m always up for chatting about **game dev**, **C++**, and **tech**. Let's co
 ![ArelleNox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArelleNox&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArelleNox&layout=compact&theme=tokyonight)  
 
-## 🔥 Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ArelleNox&theme=github-green-purple&cache_seconds=86400)
-
-
 ## 📫 Connect With Me  
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](your-discord-link)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](your-twitter-link)  
