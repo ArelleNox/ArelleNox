@@ -1,8 +1,14 @@
 ![My Banner](https://github.com/ArelleNox/ArelleNox/blob/main/banner2.png?raw=true)
 
-## 🚀 About Me  
-👋 Hi, I'm ArelleNox! I'm a passionate first year game developer student working with C++.  
-🎮 Currently working on a 2D platfromer
+## 🚀 About Me
+
+Hi, I'm **ArelleNox**! I'm a passionate **first-year game development student** with a love for **C++**. 🎮  
+💻 **Learning & Building** – Currently diving deep into game development, optimizing code, and making fun, interactive games!  
+🔧 **Tech Stack** – C++, SFML, and soon… more game engines and tools!  
+🌱 **Always Growing** – Constantly learning new techniques and working on real-world projects.  
+
+I’m always up for chatting about **game dev**, **C++**, and **tech**. Let's connect! 🚀  
+
 
 ## 🔧 Tech Stack  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
