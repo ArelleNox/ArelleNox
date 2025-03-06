@@ -15,8 +15,8 @@ I’m always up for chatting about **game dev**, **C++**, and **tech**. Let's co
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 ## 📊 GitHub Stats  
-![Janelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janelle&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArelleNox&layout=compact&theme=tokyonight)
+![ArelleNox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArelleNox&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArelleNox&layout=compact&theme=tokyonight)  
 
 ## 🔥 Streak  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ArelleNox&theme=tokyonight)  
