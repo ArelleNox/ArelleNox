@@ -1,1 +1,2 @@
-![My Banner](https://raw.githubusercontent.com/your-username/your-repo/main/banner.png)
+![My Banner](https://github.com/ArelleNox/ArelleNox/blob/main/banner.png?raw=true)
+
