@@ -9,14 +9,15 @@ Hi, I'm **Janelle**! I'm a passionate french **first-year game development stude
 
 I’m always up for chatting about **game dev**, **C++**, and **tech**. Let's connect! 🚀  
 
-
 ## 🔧 Tech Stack  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![SFML](https://img.shields.io/badge/-SFML-008000?style=flat&logo=sfml&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 ## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArelleNox&layout=compact&theme=tokyonight)  
+![Janelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janelle&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArelleNox&layout=compact&theme=tokyonight)
+![Janelle's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Janelle&theme=tokyonight)
 
 ## 🔥 Streak  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ArelleNox&theme=tokyonight)  
