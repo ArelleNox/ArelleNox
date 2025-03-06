@@ -14,8 +14,7 @@ I’m always up for chatting about **game dev**, **C++**, and **tech**. Let's co
 ![SFML](https://img.shields.io/badge/-SFML-008000?style=flat&logo=sfml&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 
-## 📊 GitHub Stats  
-![ArelleNox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArelleNox&show_icons=true&theme=tokyonight)  
+## 📊 GitHub Stats    
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArelleNox&layout=compact&theme=tokyonight)  
 
 ## 🔥 Streak  
