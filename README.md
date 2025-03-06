@@ -1,8 +1,8 @@
 ![My Banner](https://github.com/ArelleNox/ArelleNox/blob/main/banner2.png?raw=true)
 
-## 🚀 About Me
+## 🚀  About Me
 
-Hi, I'm **ArelleNox**! I'm a passionate **first-year game development student** with a love for **C++**. 🎮  
+Hi, I'm **Janelle**! I'm a passionate **first-year game development student** with a love for **C++**. 🎮  
 💻 **Learning & Building** – Currently diving deep into game development, optimizing code, and making fun, interactive games!  
 🔧 **Tech Stack** – C++, SFML, and soon… more game engines and tools!  
 🌱 **Always Growing** – Constantly learning new techniques and working on real-world projects.  
