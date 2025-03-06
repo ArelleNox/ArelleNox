@@ -21,8 +21,8 @@ I’m always up for chatting about **game dev**, **C++**, and **tech**. Let's co
 ## 📈 Contribution Graph  
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArelleNox&theme=tokyonight)
 
-## 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?username=ArelleNox&theme=tokyonight)
+## 🔥 Streak  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ArelleNox&theme=tokyonight)  
 
 ## 📫 Connect With Me  
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](your-discord-link)  
