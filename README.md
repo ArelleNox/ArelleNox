@@ -17,10 +17,7 @@ I’m always up for chatting about **game dev**, **C++**, and **tech**. Let's co
 
 ## 📊 GitHub Stats
 ![ArelleNox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArelleNox&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArelleNox&layout=compact&theme=tokyonight)  
-
-## 🔥 Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ArelleNox&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArelleNox&layout=compact&theme=tokyonight) 
 
 ## 📈 Contribution Graph  
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArelleNox&theme=tokyonight)
