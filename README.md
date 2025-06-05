@@ -2,24 +2,43 @@
 
 ## 🎮 About Me
 
-Hi, I'm **Janelle** — a French **game development student** at **Gaming Campus** with a growing interest in **quantitative finance**.
+Hi, I'm **Janelle** — a French **game development student** at **Gaming Campus**, focused on building technical game systems that scale.
 
-💡 **From Games to Quants** – I started in C++ and real-time game development (2D/3D), but I'm now shifting gears to master the math, data, and models that drive financial markets.  
-📊 **Quant-in-Progress** – Currently building a roadmap in Python, statistics, probability theory, and algorithmic trading.  
-🛠 **Tooling Up** – Working with C++, Python, SFML, Git, and soon deep-diving into Pandas, NumPy, and financial modeling libraries.  
-🧠 **Always Building** – Whether it’s a game engine, a backtest simulator, or a data pipeline — I’m here to ship and learn fast.  
+💡 **Systems First** – Started with real-time C++ development (2D), now applying the same principles to Unity (C#) — from pathfinding to gameplay architecture.  
+🛠 **Multi-Stack Builder** – Developing tools and systems across C++, Unity, and SFML with a sharp focus on performance and modularity.  
+🚀 **Currently Shipping** – Working on a Unity project with a custom logic framework (FSM, GOAP, pathfinding).  
+🧠 **Always Iterating** – Whether it’s a game engine, sandbox, or toolchain — I’m all about building fast, learning faster.  
 
-Looking to connect with others in **game tech**, **quant finance**, or **AI**. Let’s collaborate.
+Let’s connect — especially if you're into **game tech**, **tools**, or **engine-level systems**.
+
+---
 
 ## 🔧 Tech Stack  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SFML](https://img.shields.io/badge/-SFML-008000?style=flat&logo=sfml&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 
-## 📊 GitHub Stats
-![ArelleNox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArelleNox&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArelleNox&layout=compact&theme=tokyonight) 
+**Languages & Engines**  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)  
+![SFML](https://img.shields.io/badge/-SFML-008000?style=flat&logo=sfml&logoColor=white)
+
+**Core Systems**  
+![FSM](https://img.shields.io/badge/-FSM-FF8C00?style=flat)  
+![GOAP](https://img.shields.io/badge/-GOAP-1E90FF?style=flat)  
+![A* Pathfinding](https://img.shields.io/badge/-Pathfinding-4B8BBE?style=flat)
+
+**Tooling**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+![ArelleNox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArelleNox&show_icons=true&theme=tokyonight&cache_seconds=1800)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArelleNox&layout=compact&theme=tokyonight)  
+
+---
 
 ## 📈 Contribution Graph  
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArelleNox&theme=tokyonight)
