@@ -5,6 +5,7 @@
 Hi, I'm **Janelle** — a French **game development student** at **Gaming Campus**, focused on building technical game systems that scale.
 
 💡 **Systems First** – Started with real-time C++ development (2D)
+
 🛠 **Multi-Stack Builder** – Developing tools and systems across C++, and SFML with a sharp focus on performance and modularity.  
 🚀 **Currently Shipping** – Working on a Unity project with a custom logic framework (FSM, GOAP, pathfinding).  
 🧠 **Always Iterating** – Whether it’s a game engine, sandbox, or toolchain — I’m all about building fast, learning faster.  
