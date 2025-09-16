@@ -4,8 +4,8 @@
 
 Hi, I'm **Janelle** — a French **game development student** at **Gaming Campus**, focused on building technical game systems that scale.
 
-💡 **Systems First** – Started with real-time C++ development (2D), now applying the same principles to Unity (C#) — from pathfinding to gameplay architecture.  
-🛠 **Multi-Stack Builder** – Developing tools and systems across C++, Unity, and SFML with a sharp focus on performance and modularity.  
+💡 **Systems First** – Started with real-time C++ development (2D)
+🛠 **Multi-Stack Builder** – Developing tools and systems across C++, and SFML with a sharp focus on performance and modularity.  
 🚀 **Currently Shipping** – Working on a Unity project with a custom logic framework (FSM, GOAP, pathfinding).  
 🧠 **Always Iterating** – Whether it’s a game engine, sandbox, or toolchain — I’m all about building fast, learning faster.  
 
@@ -19,7 +19,6 @@ Let’s connect — especially if you're into **game tech**, **tools**, or **eng
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)  
 ![SFML](https://img.shields.io/badge/-SFML-008000?style=flat&logo=sfml&logoColor=white)
 
 **Core Systems**  
