@@ -21,6 +21,9 @@ Let’s connect — especially if you're into **game tech**, **tools**, or **eng
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![SFML](https://img.shields.io/badge/-SFML-008000?style=flat&logo=sfml&logoColor=white)
+![Raylib](https://img.shields.io/badge/-raylib-008000?style=flat&logo=raylib&logoColor=white)
+
+
 
 **Core Systems**  
 ![FSM](https://img.shields.io/badge/-FSM-FF8C00?style=flat)  
