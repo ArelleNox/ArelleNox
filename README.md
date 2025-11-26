@@ -1,34 +1,62 @@
 ![My Banner](https://github.com/ArelleNox/ArelleNox/blob/main/banner2.png?raw=true)
 
-## 🎮 About Me
+## 🎮 Who I Am
 
-Hi, I'm **Janelle** — a French **game development student** at **Gaming Campus**, focused on building technical game systems that scale.
+French systems developer specializing in Unreal Engine and C++ gameplay architecture.
+I focus on building technical foundations — frameworks, tools, and engine-level features that scale.
 
-💡 **Systems First** – Started with real-time C++ development (2D)
-
-🛠 **Multi-Stack Builder** – Developing tools and systems across C++, and SFML with a sharp focus on performance and modularity.  
-🚀 **Currently Shipping** – Working on a Unity project with a custom logic framework (FSM, GOAP, pathfinding).  
-🧠 **Always Iterating** – Whether it’s a game engine, sandbox, or toolchain — I’m all about building fast, learning faster.  
-
+My goal is straightforward: master Unreal Engine at a deep level and shape a future in GameTech engineering and solo-founded tools & engines. I build fast, iterate constantly, and keep a sharp eye on clean design patterns.
 Let’s connect — especially if you're into **game tech**, **tools**, or **engine-level systems**.
 
+
+## 🔥 Current Focus: Unreal Engine
+
+Right now, Unreal Engine is the core of everything I do.
+
+### 🧩 Engine-Level Workflows
+
+- C++ gameplay systems
+- Custom components and modules
+- Data-driven logic setups
+- Engine features exploration
+- Optimization, debugging, iteration
+
+### 🛠 Gameplay Architecture
+
+- State machines
+- Event-driven logic
+- Input workflows
+- Movement systems
+- Reusable gameplay modules
+
+### 🗂 Project Direction
+
+- Developing a personal Unreal sandbox to test systems
+- Deepening expertise in engine internals
+- Building foundations for future tools and technical products
+
+
+
+### 🧠 How I Work
+
+- Systems-first, engine-aware mindset
+- Strong emphasis on clean architecture
+- Rapid iteration with structured refactoring
+- Reusable solutions rather than one-shot features
+- Product-driven approach: build for scalability and clarity
+
+
 ---
+
 
 ## 🔧 Tech Stack  
 
 **Languages & Engines**  
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-000000?style=flat&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![SFML](https://img.shields.io/badge/-SFML-008000?style=flat&logo=sfml&logoColor=white)
 ![Raylib](https://img.shields.io/badge/-raylib-008000?style=flat&logo=raylib&logoColor=white)
-
-
-
-**Core Systems**  
-![FSM](https://img.shields.io/badge/-FSM-FF8C00?style=flat)  
-![GOAP](https://img.shields.io/badge/-GOAP-1E90FF?style=flat)  
-![A* Pathfinding](https://img.shields.io/badge/-Pathfinding-4B8BBE?style=flat)
 
 **Tooling**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
