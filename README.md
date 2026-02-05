@@ -5,6 +5,8 @@
 French systems developer specializing in Unreal Engine and C++ gameplay architecture.
 I focus on building technical foundations — frameworks, tools, and engine-level features that scale.
 
+Currently creating a game engine as part of my school project.
+
 My goal is straightforward: master Unreal Engine at a deep level and shape a future in GameTech engineering and solo-founded tools & engines. I build fast, iterate constantly, and keep a sharp eye on clean design patterns.
 Let’s connect — especially if you're into **game tech**, **tools**, or **engine-level systems**.
 
